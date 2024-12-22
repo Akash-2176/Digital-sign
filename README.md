@@ -37,12 +37,16 @@ A web app designed for creating smooth, dynamic digital signatures. Users can dr
 ## 🖼️ Screenshot
 
 #### 💻 Desktop
-[Desktop-App](Digital-sign-desktop.PNG)
-[Usage](Digital-sign-desktop-usage.PNG)
+
+<img src="Digital-sign-desktop.PNG">
+<img src="Digital-sign-desktop-usage.PNG">
 
 #### 📱 Mobile
-[Mobile-App](Digital-sign-mobile.JPEG)
-[Usage](Digital-sign-mobile-usage.JPEG)
+
+<img src="Digital-sign-mobile.jpeg" width="250">
+
+
+<img src="Digital-sign-mobile-usage.jpeg" width="250">
 
 ---
 
